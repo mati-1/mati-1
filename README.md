@@ -15,3 +15,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true&theme=synthwave)
   
 </div>
+
+<h4 align="right"> Created by skrimusss. </h4>
