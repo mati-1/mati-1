@@ -1,4 +1,4 @@
-<p align="left">Hi, I am skrm</p>
+<p align="left">Hi, I am Matthew Michalik, I live in Poland</p>
 <p align="right">Frontend Dev and Graphics Designer</p>
 
 <br>
