@@ -18,9 +18,7 @@
 
 <br>
 
-**Tech Stack**
-
-<br>
+**Languages**
 
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/>
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30"/>
@@ -29,6 +27,8 @@
  
  <br>
  
+ **Tools and libraries**
+ 
  - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/>
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" height="30"/>
  - <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30"/>
@@ -36,6 +36,8 @@
 
  <br>
  
+  **Graphics Software**
+  
  - <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30"/>
  - <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30"/>
  - <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30"/>
