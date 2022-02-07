@@ -1,5 +1,11 @@
 <h1 align="left">Hi, I am Matthew Michalik</h1>
-<p> I am Frontend Developer and Graphics Designer </p>
+**About me**
+
+- 📈 FrontEnd Developer [ 1300 hours of coding ]
+
+- 📈 Graphics Designer [ 2 years experience ]
+
+- 📈 I love writing Javascript apps
 
 **Languages and Tools**
 
