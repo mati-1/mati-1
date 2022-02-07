@@ -13,13 +13,6 @@
  </p>
  
  ---
- <p>
-  <img width="150" align='left' src="https://avatars.githubusercontent.com/u/91088258?v=4">
-</p>
- 
-### Junior Frontend dev
-
- ---
 
 <div align="left">
   
