@@ -2,11 +2,9 @@
 
 **About me**
 
-- 📈 FrontEnd Developer [ 1300 hours of coding ]
+- 💻 FrontEnd Developer [ 1300 hours of coding ]
 
-- 📈 Graphics Designer [ 2 years experience ]
-
-- 📈 I love writing Javascript apps
+- ✏️ Graphics Designer [ 2 years experience ]
 
 <br>
 
