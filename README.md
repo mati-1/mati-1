@@ -5,8 +5,10 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </p>
 
 <br>
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true&theme=synthwave)
   
+</div>
 
-<span align="right"> Created by skrimusss. </span>
+<p align="right"> Created by skrimusss. </p>
