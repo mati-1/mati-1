@@ -10,11 +10,11 @@
 
 **Languages and Tools**
 
+ <code> <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/> </code>
  <code> <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35"/> </code>
  <code> <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35"/> </code>
  <code> <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35"/> </code>
  <code> <br> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/> </code>
- <code> <br> <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="35"/> </code>
  
  <br>
  
