@@ -17,6 +17,8 @@
  - <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35"/> </code>
  - <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35"/> </code>
  
+ <br>
+ 
  **Tools**
  
  - <code> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/> </code>
