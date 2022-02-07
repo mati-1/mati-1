@@ -1,4 +1,4 @@
-<p align="center">Hi, I am Matthew Michalik</p>
+<p align="left">Hi, I am Matthew Michalik</p>
 <br>
 <p align="left">Tech Stack</p>
 <p align="left"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/></p>
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> </p>
 
 <br>
-<div align="center">
+<div align="left">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true&theme=synthwave)
   
