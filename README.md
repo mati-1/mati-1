@@ -6,9 +6,9 @@
 
 **About me**
 
-- 💻 FrontEnd Developer [1300 hours of coding]
+- 💻 FrontEnd Developer
 
-- ✏️ Graphics Designer [2 years experience]
+- ✏️ Graphics Designer
 
 - 👦 18 years old
 
