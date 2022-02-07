@@ -4,8 +4,8 @@
 <br>
 
 <h3 align="left">Tech Stack</h3>
-<span align="left"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/> </span>
-<span align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </span>
+<span margin="1rem" align="left"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/> </span>
+<span margin="1rem" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </span>
 
 <br>
   
