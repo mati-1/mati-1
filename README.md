@@ -22,7 +22,9 @@
  **Tools**
  
  - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" height="35"/>
  
+
  <br>
  
  ---
