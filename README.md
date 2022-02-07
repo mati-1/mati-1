@@ -14,7 +14,7 @@
  
  ---
  <p>
-  <img width="250" align='left' src="https://avatars.githubusercontent.com/u/91088258?v=4">
+  <img width="150" align='left' src="https://avatars.githubusercontent.com/u/91088258?v=4">
 </p>
  
 ### Boy Scout Rule
