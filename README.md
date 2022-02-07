@@ -6,6 +6,8 @@
 
 <h3 align="left">Tech Stack</h3>
 <p align="left"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/> </p>
+<br>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="angular" width="30" height="30"/> </p>
 
 <br>
 
