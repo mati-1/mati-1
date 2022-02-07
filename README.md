@@ -10,6 +10,8 @@
 
 - ✏️ Graphics Designer [2 years experience]
 
+- 👦 18 years old
+
 <br>
 
 ---
