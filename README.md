@@ -14,7 +14,7 @@
 
 **Tech Stack**
 
-**Languages**
+<p> Frontend </p>
 
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/>
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35"/>
@@ -23,7 +23,7 @@
  
  <br>
  
- **Tools and Libraries**
+<p>Tools and Libraries</p>
  
  - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/>
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" height="35"/>
