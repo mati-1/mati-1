@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I am Matthew Michalik</h1>
-<p font-size="20px"> I am Frontend Developer and Graphics Designer </p>
+<p style="background-color: crimson; color: #f1f1f1; font-weight: bold"> I am Frontend Developer and Graphics Designer </p>
 <p align="left">Tech Stack</p>
 <p align="left"> Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/></p>
 <p align="left"> Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </p>
