@@ -4,12 +4,12 @@
 <p> 
 
 
- <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> </code>
- <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" height="30"/> </code>
- <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </code>
+ <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30"/> </code>
+ <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30"/> </code>
+ <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/> </code>
  
- <code> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/> </code>
- <code> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/> </code>
+ <code> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/> </code>
+ <code> <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30"/> </code>
  </p>
  
  ---
