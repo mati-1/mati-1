@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I am Matthew Michalik</h1>
-<p style="background-color: crimson; color: #f1f1f1; font-weight: bold"> I am Frontend Developer and Graphics Designer </p>
+<p> I am Frontend Developer and Graphics Designer </p>
 <p align="left">Tech Stack</p>
 
 **Languages and Tools**
@@ -15,7 +15,7 @@
 
 <div align="left">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true)
   
 </div>
 
