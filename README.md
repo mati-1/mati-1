@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm matthew</h1>
+<h2 align="left">Hi, I am skrm</h2>
+<h2 align="right">I am frontend dev</h2>
+<h2 align="left">and Graphics Designer</h2>
 
 <br>
 
