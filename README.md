@@ -1,11 +1,16 @@
 <h1 align="left">Hi, I am Matthew Michalik</h1>
 <p style="background-color: crimson; color: #f1f1f1; font-weight: bold"> I am Frontend Developer and Graphics Designer </p>
 <p align="left">Tech Stack</p>
-<p align="left"> Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/></p>
-<p align="left"> Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </p>
-<p align="left"> Scss<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" height="30"/> </p>
-<p align="left"> Html<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> </p>
+<p> 
 
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
+ 
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/>
+ </p>
+ 
  ---
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
