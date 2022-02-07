@@ -12,16 +12,16 @@
 
 **Languages**
 
- - <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/> </code>
- - <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35"/> </code>
- - <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35"/> </code>
- - <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35"/> </code>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="35"/>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35"/>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35"/>
  
  <br>
  
  **Tools**
  
- - <code> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/> </code>
+ - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/>
  
  <br>
  
