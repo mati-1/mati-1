@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I am Matthew Michalik</h1>
 <p style="background-color: crimson; color: #f1f1f1; font-weight: bold"> I am Frontend Developer and Graphics Designer </p>
 <p align="left">Tech Stack</p>
+
 <p> 
-
-
+** Languages and Tools**
  <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="20"/> </code>
  <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="20"/> </code>
  <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"/> </code>
