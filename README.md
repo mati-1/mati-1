@@ -1,5 +1,11 @@
 <h1 align="left">Hi, I am Matthew Michalik</h1>
 
+<br>
+
+---
+
+<br>
+
 **About me**
 
 - 💻 FrontEnd Developer [1300 hours of coding]
