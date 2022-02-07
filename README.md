@@ -5,8 +5,8 @@
 <br>
 
 <h3 align="left">Tech Stack</h3>
-<p align="left"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/> </p>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </p>
+<span align="left"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/> </span>
+<span align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> </span>
 
 <br>
 
@@ -16,4 +16,4 @@
   
 </div>
 
-<h4 align="right"> Created by skrimusss. </h4>
+<span align="right"> Created by skrimusss. </span>
