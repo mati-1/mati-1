@@ -1,5 +1,5 @@
-<span align="left">Hi, I am skrm</span>
-<span align="right">Frontend Dev and Graphics Designer</span>
+<p align="left">Hi, I am skrm</p>
+<p align="right">Frontend Dev and Graphics Designer</p>
 
 <br>
 
