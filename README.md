@@ -10,7 +10,7 @@
 
 - ✏️ Graphics Designer
 
-- 👦 18 years old
+- 👦 17 years old
 
 <br>
 
