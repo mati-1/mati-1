@@ -22,10 +22,10 @@
 <code>
 Tech Stack
 </code>
-<br>
+
  - **Druring learning**
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35"/>
-<br>
+
  - **Successfully mastered**
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/>
 
