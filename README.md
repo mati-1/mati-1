@@ -20,6 +20,8 @@
 
 **Tech Stack**
 
+<br>
+
 <code>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/>
  </code>
@@ -56,19 +58,21 @@
  
   **Graphics Software**
   
-   <code>
+  <br>
+  
+ <code>
  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30"/>
  </code>
  
-  <code>
+ <code>
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30"/>
  </code>
  
-  <code>
+ <code>
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30"/>
  </code>
  
-  <code>
+ <code>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30"/>
  </code>
  
