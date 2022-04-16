@@ -19,14 +19,9 @@
 
 <br>
 
-<code>
-Tech Stack
-</code>
 
- - **Druring learning**
- - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35"/>
----
- - **Successfully mastered**
+**Tech Stack**
+
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/>
 
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35"/>
@@ -36,7 +31,12 @@ Tech Stack
  - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/>
 
  - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="35"/>
+ 
+<br>
 
+**Learning**
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35"/>
+ - 
  <br>
  
  ---
