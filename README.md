@@ -3,8 +3,9 @@
 ---
 
 <br>
-
-**About me**
+<code>
+ About me
+</code>
 
 - 💻 FrontEnd Developer
 
@@ -17,11 +18,11 @@
 ---
 
 <br>
-**
+
 <code>
 Tech Stack
 </code>
-**
+
 <br>
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/>
@@ -36,8 +37,10 @@ Tech Stack
 
  <br>
  
-  **Graphics Software**
-  
+ <code>
+ Graphics Software
+ </code>
+ 
  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="35"/>
 
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="35"/>
