@@ -37,9 +37,13 @@ Tech Stack
 
  <br>
  
+ ---
+ 
  <code>
  Graphics Software
  </code>
+ 
+ <br>
  
  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="35"/>
 
