@@ -6,11 +6,11 @@
 
 **About me**
 
-- 💻 FrontEnd Developer
+- FrontEnd Developer
 
-- ✏️ Graphics Designer
+- Graphics Designer
 
-- 👦 17 years old
+- 17 years old
 
 <br>
 
