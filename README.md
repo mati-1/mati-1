@@ -57,7 +57,7 @@
 </code>
 
  <br>
- <br>
+</pre>
  
   **Graphics Software**
   
@@ -79,6 +79,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="35"/>
  </code>
  
+ </pre>
  <br>
  
  ---
