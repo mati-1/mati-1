@@ -41,9 +41,7 @@
  
  ---
  
- <code>
- Graphics Software
- </code>
+ **Graphics Software**
 
  - <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="35"/>
 
