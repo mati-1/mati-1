@@ -38,18 +38,6 @@
  
  <br>
  
- **Graphics Software**
-
- - <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="35"/>
-
- - <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="35"/>
-
- - <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="35"/>
-
- - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="35"/>
-
- <br>
- 
  ---
  
  <br>
