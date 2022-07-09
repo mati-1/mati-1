@@ -23,7 +23,7 @@
 
 <details> <summary><b>Spotify</b></summary>
 
-[![Spotify](https://novatorem-sigma-one.vercel.app/api/spotify)](https://open.spotify.com/user/devon2115)
+[![Spotify](https://novatorem-n793fei4p-skrimusss.vercel.app/api/spotify)](https://open.spotify.com/user/devon2115)
   
 </details>
 
