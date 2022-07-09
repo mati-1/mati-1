@@ -3,8 +3,8 @@
 **Something about me**
 
 <ul>
-  <li> 👨 Im 18 years old
-    <li> 🎂 10 september
+  <li> 👨 Im 18 Years old
+    <li> 🎂 10 September
 <li> 🌱 I’m writing code in React, Typescript, SCSS
   <li> 🔭 I’m currently learning ReactJS
 </ul>
