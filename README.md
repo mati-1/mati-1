@@ -1,8 +1,8 @@
-<p> <code>
+<h3> <code>
   let userName = skrimus
 
   console.log(`Hi, im ${userName}`)
-</code></p>
+</code></h3>
 
 **Something about me**
 
