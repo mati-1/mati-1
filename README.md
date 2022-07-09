@@ -23,7 +23,7 @@
 
 <details> <summary><b>Spotify</b></summary>
 
-[![Spotify](https://skrimusss.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/devon2115)
+[![Spotify](https://devon2115.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/devon2115)
   
 </details>
 
