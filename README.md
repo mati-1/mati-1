@@ -23,7 +23,8 @@
 
 <details> <summary><b>Spotify</b></summary>
 
-[![Spotify](https://MateuszMichalik.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/devon2115)
+[![Spotify](https://novatorem-skrimusss.vercel.app
+/api/spotify)](https://open.spotify.com/user/devon2115)
   
 </details>
 
