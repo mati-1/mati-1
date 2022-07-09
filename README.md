@@ -1,10 +1,10 @@
 <h2>Hello 👋</h2>
 
-<h5><code>
+<code>
   let userName = skrimus
   
    console.log(`Hi, im ${userName}`)
-</code></h5>
+</code>
 
 **Something about me**
 
