@@ -3,7 +3,7 @@
 **Something about me**
 
 <ul>
-  <li> ♍ Im 18 years old
+  <li> 👨 Im 18 years old
     <li> 🎂 10 september
 <li> 🌱 I’m writing code in React, Typescript, SCSS
   <li> 🔭 I’m currently learning ReactJS
