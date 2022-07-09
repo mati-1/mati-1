@@ -1,4 +1,8 @@
-<h4> <code>console.log('Hi, im skrimus')</code></h4>
+<h4> <code>
+  let userName = skrimus
+
+  console.log(`Hi, im ${userName}`)
+</code></h4>
 
 **Something about me**
 
