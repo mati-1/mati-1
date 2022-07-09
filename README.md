@@ -1,4 +1,4 @@
-<h3 align="center"> <code>console.log('Hi, im skrimus')</code></h3>
+<h3> <code>console.log('Hi, im skrimus')</code></h3>
 
 **Something about me**
 
