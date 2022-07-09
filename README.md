@@ -19,6 +19,7 @@
     <ul>
         <li><strong>Discord: </strong> <code>skrimuś💨#0001</code></li>
         <li><strong>E-mail: </strong> <code>michalikkontakt@gmail.com</code></li>
+        <li><strong><a href="https://www.linkedin.com/in/mateusz-michalik-84a7b8221/"> Linkedin </a>
     </ul>
 </details>
 <details> <summary> <b> GitHub Stats </b> </summary>
