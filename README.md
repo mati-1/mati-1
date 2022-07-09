@@ -1,6 +1,6 @@
 <p> <code>
   let userName = skrimus
-<br>
+
   console.log(`Hi, im ${userName}`)
 </code></p>
 
