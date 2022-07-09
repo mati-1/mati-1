@@ -1,3 +1,5 @@
+<h3 align="center"> <code>console.log('Hi, im skrimus')</code></h3>
+
 **Something about me**
 
 <ul>
@@ -36,6 +38,3 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="35" height="35"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35"/>
- 
-<h3 align="center"> <code>console.log('Hi, im skrimus')</code></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xmonpl"> </img></p>
