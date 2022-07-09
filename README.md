@@ -21,8 +21,6 @@
   
 </details>
 
----
-
 **Tech Stack**
 
 <code>
