@@ -1,7 +1,7 @@
 <h2>Hello 👋</h2>
 
 <code>
-  let userName = skrimus
+  let userName = 'skrimus'
   
    console.log(Hi, im ${userName})
 </code>
