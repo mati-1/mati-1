@@ -3,8 +3,9 @@
 **Something about me**
 
 <ul>
-  <li> 🔭 I’m currently learning ReactJS
+  <li> ♍ Im 18 years old virgo man
 <li> 🌱 I’m writing code in React, Typescript, SCSS
+  <li> 🔭 I’m currently learning ReactJS
 </ul>
 
 <details><summary><b>Contact me</b></summary>
