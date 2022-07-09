@@ -21,6 +21,12 @@
   
 </details>
 
+<details> <summary><b>Spotify</b></summary>
+
+[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/devon2115)
+  
+</details>
+
 **Tech Stack**
 
 <code>
