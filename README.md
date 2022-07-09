@@ -1,7 +1,7 @@
 <h5><code>
   let userName = skrimus
   
-  <br>
+
 
   console.log(`Hi, im ${userName}`)
 </code></h5>
