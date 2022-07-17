@@ -10,7 +10,7 @@
 
 <ul>
   <li> 👨 Im 18 Years old
-    <li> 🎂 10 September
+    <li> 🎂 10th September
 <li> 🌱 I’m writing code in React, Typescript, SCSS
   <li> 🔭 I’m currently learning ReactJS
 </ul>
