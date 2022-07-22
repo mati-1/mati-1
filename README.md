@@ -3,7 +3,7 @@
 <code>
   let userName = 'skrimus'
   
-   console.log(Hi, im ${userName})
+   console.log(`Hi, im ${userName}`)
 </code>
 
 **Something about me**
