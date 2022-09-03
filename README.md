@@ -33,6 +33,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
 </code>
 
+<br>
+
 <details><summary><b>Contact me</b></summary>
     <ul>
         <li><strong>Discord: </strong> <code>skrimusss#0001</code></li>
