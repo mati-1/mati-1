@@ -15,21 +15,6 @@
   <li> 🔭 I’m currently learning ReactJS
 </ul>
 
-<details><summary><b>Contact me</b></summary>
-    <ul>
-        <li><strong>Discord: </strong> <code>skrimusss#0001</code></li>
-        <li><strong>E-mail: </strong> <code>michalikkontakt@gmail.com</code></li>
-        <li><strong><a href="https://www.linkedin.com/in/mateusz-michalik-84a7b8221/"> Linkedin </a>
-    </ul>
-</details>
-<details> <summary> <b> GitHub Stats </b> </summary>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrimusss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</details>
-
 **Tech Stack**
 
 <code>
@@ -47,3 +32,18 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
 </code>
+
+<details><summary><b>Contact me</b></summary>
+    <ul>
+        <li><strong>Discord: </strong> <code>skrimusss#0001</code></li>
+        <li><strong>E-mail: </strong> <code>michalikkontakt@gmail.com</code></li>
+        <li><strong><a href="https://www.linkedin.com/in/mateusz-michalik-84a7b8221/"> Linkedin </a>
+    </ul>
+</details>
+<details> <summary> <b> GitHub Stats </b> </summary>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrimusss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
