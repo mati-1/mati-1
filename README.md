@@ -19,7 +19,7 @@
 	
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="66%">
 <div align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35"/>
