@@ -1,4 +1,4 @@
-<h2>Hello <p align="center"><img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p></h2>
+<h2>Hello</h2>
 
 <code>
   let userName = 'skrimus'
@@ -17,6 +17,7 @@
 
 <details><summary><b>💻 Tech Stack</b></summary>
 
+<div align="center">  
 <ul>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="25"/></li>
 
@@ -28,6 +29,8 @@
 
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25"/></li>
 </ul>
+</div></td><td valign="top" width="33%">
+
 
 </details>
 
