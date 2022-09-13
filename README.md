@@ -18,17 +18,11 @@
 <details><summary><b>💻 Tech Stack</b></summary>
 
 <div align="center">  
-<ul>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="25"/></li>
-
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="25"/></li>
-
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="25"></li>
-
-<li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25"/></li>
-
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25"/></li>
-</ul>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="25">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25"/></li>
 </div></td><td valign="top" width="33%">
 
 
