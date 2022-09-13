@@ -38,8 +38,10 @@
 </details>
 	
 <details> <summary> <b> GitHub Stats </b> </summary>
+	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrimusss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	
 </details>
 
 **Visual Studio Code Settings**
