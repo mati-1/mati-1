@@ -17,14 +17,17 @@
 
 <details><summary><b>💻 Tech Stack</b></summary>
 	
-<table><tr><td valign="top" width="25%">
+<table><tr>
+<td valign="top" width="25%">
 <div align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="35">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35"/></li>
-</div></td>
+</div>
+</td>
+</tr>
 </table>
 
 </details>
