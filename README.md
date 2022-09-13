@@ -45,7 +45,7 @@
 	
 </details>
 	
-<details><summary><b>Visual Studio Code Settings</b></summary>
+<details><summary><b>VSCode Settings</b></summary>
 	
 ```
 {
