@@ -24,7 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="25">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25"/></li>
-</div></td><td valign="top" width="33%">
+</div></td>
 </table>
 
 </details>
