@@ -6,16 +6,16 @@
    console.log(Hi, im ${userName})
 </code>
 
-**Something about me**
+**👦 Something about me**
 
 <ul>
-  <li> 👨 Im 18 Years old
+  <li> 👦 Im 18 Years old
     <li> 🎂 10th September
 <li> 🌱 I’m writing code in React, Typescript, SCSS
   <li> 🔭 I’m currently learning ReactJS
 </ul>
 
-**Tech Stack**
+**💻 Tech Stack**
 
 <ul>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="25"/></li>
@@ -29,7 +29,7 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25"/></li>
 </ul> 
 
-<details><summary><b>Contact me</b></summary>
+<details><summary><b>📧 Contact me</b></summary>
     <ul>
         <li><strong>Discord: </strong> <code>skrimusss#0001</code></li>
         <li><strong>E-mail: </strong> <code>michalikkontakt@gmail.com</code></li>
@@ -37,7 +37,7 @@
     </ul>
 </details>
 	
-<details> <summary> <b> GitHub Stats </b> </summary>
+<details> <summary> <b>📈 GitHub Stats </b> </summary>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true)
 	
@@ -45,7 +45,7 @@
 	
 </details>
 	
-<details><summary><b>VSCode Settings</b></summary>
+<details><summary><b>👨‍💻 VSCode Settings</b></summary>
 	
 ```
 {
