@@ -37,6 +37,7 @@
     </ul>
 </details>
 
+## Visual Studio Code Settings
 ```json
 {
 	"workbench.colorTheme": "Bearded Theme Arc Blueberry",
