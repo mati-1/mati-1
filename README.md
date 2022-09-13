@@ -36,6 +36,77 @@
         <li><strong><a href="https://www.linkedin.com/in/mateusz-michalik-84a7b8221/"> Linkedin </a>
     </ul>
 </details>
+
+<details><summary><b>VS Code settings</b></summary>
+  <code>
+    {
+	"workbench.colorTheme": "Bearded Theme Arc Blueberry",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorCustomizations": {
+		"editorBracketHighlight.foreground1": "#a0004b",
+		"editorBracketHighlight.foreground2": "#770077",
+		"editorBracketHighlight.foreground3": "#008bb9",
+		"editorBracketHighlight.foreground4": "#6a9717",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#910000"
+	},
+	"breadcrumbs.enabled": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmDragAndDrop": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.linkedEditing": true,
+	"editor.cursorBlinking": "blink",
+	"editor.wordWrap": "on",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": true,
+	"prettier.arrowParens": "avoid",
+	"prettier.jsxSingleQuote": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.semi": false,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 120,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"diffEditor.renderSideBySide": false,
+	"editor.tabSize": 2,
+	"editor.fontSize": 15,
+	"editor.smoothScrolling": true,
+	"workbench.list.smoothScrolling": true,
+	"editor.cursorSmoothCaretAnimation": true,
+	"window.zoomLevel": 0,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"emmet.syntaxProfiles": {
+		"html": {
+			"inline_break": 2
+		}
+	},
+	"emmet.variables": {
+		"lang": "pl"
+	},
+	"files.trimTrailingWhitespace": false,
+	"discord.lowerDetailsIdling": "Cos robie",
+	"discord.lowerDetailsEditing": "Editing a {LANG} file",
+	"discord.detailsEditing": "Editing at {file_name}",
+	"discord.largeImage": "Editing a {lang} file",
+	"discord.lowerDetailsNoWorkspaceFound": "Cos robie",
+	"discord.removeRemoteRepository": true,
+	"explorer.compactFolders": false,
+	"files.associations": {
+		"*.js": "javascriptreact"
+	},
+	"workbench.startupEditor": "none",
+	"explorer.confirmDelete": false
+}
+
+  </code>
+</details>
+
 <details> <summary> <b> GitHub Stats </b> </summary>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true)
