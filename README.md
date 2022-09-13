@@ -6,7 +6,7 @@
    console.log(Hi, im ${userName})
 </code>
 
-**👦 Something about me**
+**💁‍♂️ Something about me**
 
 <ul>
   <li> 👦 Im 18 Years old
