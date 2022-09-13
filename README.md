@@ -38,8 +38,8 @@
 </details>
 
 <details><summary><b>VS Code settings</b></summary>
-  ```
-    {
+```
+{
 	"workbench.colorTheme": "Bearded Theme Arc Blueberry",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.colorCustomizations": {
@@ -103,7 +103,7 @@
 	"workbench.startupEditor": "none",
 	"explorer.confirmDelete": false
 }
-  ```
+```
 </details>
 
 <details> <summary> <b> GitHub Stats </b> </summary>
