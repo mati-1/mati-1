@@ -45,7 +45,7 @@
 	
 </details>
 	
-<details><summary><b>Contact me</b></summary>
+<details><summary><b>Visual Studio Code Settings</b></summary>
 	
 ```
 {
