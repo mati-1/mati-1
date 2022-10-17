@@ -29,6 +29,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35"/></li>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/>
+
+<img src='https://camo.githubusercontent.com/6d4c860b0bafe98411214195d1701af31b2d6f6e8c48721e663eaf349a57d6e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666c61742d737175617265266c6f676f3d53415353266c6f676f436f6c6f723d7768697465' />
 </div>
 </td>
 </tr>
