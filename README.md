@@ -1,6 +1,6 @@
 <h2>Hi there 🖐</h2>
 
-<h3>My name is Matthew and I would like to be a Fullstack engineer</h3>
+<code><h3>My name is Matthew and I would like to be a Fullstack engineer</h3></code>
 
 **💁‍♂️ Something about me**
 
