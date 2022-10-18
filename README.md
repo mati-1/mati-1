@@ -1,10 +1,6 @@
-<h2>Hello 🖐</h2>
+<h2>Hi there 🖐</h2>
 
-<code>
-  let userName = 'skrimus'
-  
-   console.log(Hi, im ${userName})
-</code>
+<h1>My name is Matthew and I would like to be a Fullstack engineer</h1>
 
 **💁‍♂️ Something about me**
 
