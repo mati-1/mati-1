@@ -1,7 +1,5 @@
 <i><h3>My name is Matthew and I would like to be a Fullstack engineer 🖐</h3></i>
 
----
-
 **💁‍♂️ Something about me**
 
 <ul>
