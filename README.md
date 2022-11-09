@@ -2,7 +2,7 @@
 	
 Hello 🖐 
 	
-My name is Matthew and I would like to be a Fullstack engineer
+	<p>I am an 18 years old Web Developer living in Poland. I have been programming from June 2021 to present. I wanna be a frontend developer, coding in React technology, typescript and others. My level of English remained at B1/B2 but I am currently learning it daily.</p>
 	
 </h3></i>
 
