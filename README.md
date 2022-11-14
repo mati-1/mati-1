@@ -1,17 +1,17 @@
 
 <h1>Hello there 🖐</h1> 
 	
-I am Matthew, an 18 years old Web Developer living in Poland. I have been programming from June 2021 to present. I wanna be a frontend developer (but, in future fullstack developer). Now I am coding in React technology, typescript and others. My level of English is remained at B1/B2 but I am currently learning it daily.
+I am Matthew, an 18 years old Web Developer living in Poland. I have been programming from June 2021 to present. I wanna be a frontend developer (but, in the future fullstack developer), now I am coding in React, typescript and others. My level of English is remained at B1/B2 but I am currently learning it daily.
 
 ---
 
 **💁‍♂️ Something about me**
 
 <ul>
-  <li> 👦 Im 18 Years old
+  <li> 👦 I am 18 years old
     <li> 🎂 10th September
-<li> 🌱 I’m writing code in React, Typescript, SCSS
-  <li> 🔭 I’m currently learning ReactJS
+<li> 🌱 I am coding in React, Typescript and Scss
+  <li> 🔭 I’m currently learning React and Express.js
 </ul>
 
 <details><summary><b>💻 Tech Stack</b></summary>
