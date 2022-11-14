@@ -11,7 +11,7 @@ I am Matthew, an 18 years old Web Developer living in Poland. I have been progra
   <li> 👦 I am 18 years old
     <li> 🎂 10th September
 <li> 🌱 I am coding in React, Typescript and Scss
-  <li> 🔭 I’m currently learning React and Express.js
+  <li> 🔭 I am currently learning Express.js
 </ul>
 
 <details><summary><b>💻 Tech Stack</b></summary>
