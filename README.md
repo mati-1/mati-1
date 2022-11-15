@@ -9,7 +9,7 @@ I am Matthew, an 18 years old Web Developer living in Poland. I have been progra
 
 <ul>
   <li> 👦 I am 18 years old
-    <li> 🎂 10th September
+    <li> 🎂 Born 10th September
 <li> 🌱 I am coding in React, Typescript and Scss
   <li> 🔭 I am currently learning Express.js
 </ul>
