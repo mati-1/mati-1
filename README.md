@@ -124,5 +124,5 @@ I am Matthew, an 18 years old Web Developer living in Poland. I have been progra
 </details>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=skrimusss&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=skrimusss&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
