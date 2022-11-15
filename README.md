@@ -49,7 +49,10 @@ I am Matthew, an 18 years old Web Developer living in Poland. I have been progra
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrimusss&show_icons=true)
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrimusss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-	
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=skrimusss&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
 </details>
 	
 <details><summary><b>👨‍💻 VSCode Settings</b></summary>
@@ -122,7 +125,3 @@ I am Matthew, an 18 years old Web Developer living in Poland. I have been progra
 ```
 		
 </details>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=skrimusss&label=Profile%20Views&color=11&icon=5&pretty=true" />
-</a>
