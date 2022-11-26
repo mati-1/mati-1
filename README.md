@@ -1,4 +1,4 @@
-<img src='https://images.pexels.com/videos/856478/free-video-856478.jpg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200' alt='skrimus image' />
+<img width='100%' src='https://images.pexels.com/videos/856478/free-video-856478.jpg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200' alt='skrimus image' />
 <h1>Hello there 🖐</h1> 
 	
 I am Matthew, an 18 years old Web Developer living in Poland. I've been programming from June 2021 to present. I wanna be a frontend developer (but, in the future fullstack developer), now I am coding in React, typescript and others technologies. My level of English is remained at B1/B2 but I am currently learning it daily.
