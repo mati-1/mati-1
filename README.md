@@ -1,4 +1,4 @@
-<img width='100%' src='https://i.ibb.co/92Gbgc4/github.png' alt='skrimus image' />
+<img width='100%' src='https://i.ibb.co/Pr31tHf/github.png' alt='skrimus image' />
 <h1>Hello there 🖐</h1> 
 	
 <p>I am Matthew, an 18 years old Web Developer living in Poland. </p>
