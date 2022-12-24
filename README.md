@@ -13,8 +13,8 @@
 <ul>
   <li> 👦 I am 18 years old
     <li> 🎂 Born 10th September
-<li> 🌱 I am coding in React, Typescript and Scss
-  <li> 🔭 I am currently learning Express.js
+<li> 🌱 I am coding in React, Next, Typescript and TailwindCSS
+  <li> 🔭 I am currently learning Node.js
 </ul>
 
 **🌱 Main Stack**
