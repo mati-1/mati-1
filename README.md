@@ -2,7 +2,7 @@
 	
 <p>I am Matthew, just a Web Developer living in Poland. </p>
 <br>
-<p>I've been programming from June 2021 to present. I wanna be a frontend developer (but, in the future fullstack developer), now I am coding in React, typescript and others technologies. </p>
+<p>I've been programming from June 2021 to present. I wanna be a fullstack dev, now I am coding in React, typescript and others technologies. </p>
 <br>
 <p> My level of English is remained at B1/B2 but I am currently learning it daily. </p>
 
