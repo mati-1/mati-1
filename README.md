@@ -1,6 +1,6 @@
 <h1>Hello there 🖐</h1> 
 	
-<p>I am Matthew, just a Web Developer living in Poland. </p>
+<p>I am Matthew, Im working as a Frontend developer. </p>
 <br>
 <p>I've been programming from June 2021 to present. I wanna be a fullstack dev, now I am coding in React, typescript and others technologies. </p>
 <br>
