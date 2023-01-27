@@ -2,7 +2,7 @@
 	
 <p>I am Matthew, Im working as a Frontend developer. </p>
 <br>
-<p>I've been programming from June 2021 to present. I wanna be a fullstack dev, now I am coding in React, typescript and others technologies. </p>
+<p>I am a Junior Frontend Developer, from poland. Basically i am develop apps in react, but in the meantime i am learning node.js, beacuse i wanna be a fullstack dev in the future :) </p>
 <br>
 <p> My level of English is remained at B1/B2 but I am currently learning it daily. </p>
 
@@ -15,6 +15,7 @@
     <li> 🎂 Born 10th September
 <li> 🌱 I am coding in React, Next, Typescript and TailwindCSS
   <li> 🔭 I am currently learning Node.js
+<li> 🔭 My goal for this year is to learn React Native
 </ul>
 
 **🌱 Main and Favourite Stack**
