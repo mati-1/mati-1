@@ -15,7 +15,7 @@
     <li> 🎂 Born 10th September
 <li> 🌱 I am coding in React, Next, Typescript and TailwindCSS
   <li> 🔭 I am currently learning Node.js
-<li> 🔭 My goal for this year is to learn React Native
+<li> 🎯 My goal for this year is to learn React Native
 </ul>
 
 **🌱 Main and Favourite Stack**
