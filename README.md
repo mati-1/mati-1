@@ -1,8 +1,7 @@
 <h1>Hello there 🖐</h1> 
-	
-<p>I am Matthew, Im working as a Frontend developer. </p>
+
 <br>
-<p>I am a Junior Frontend Developer, from poland. Basically i am develop apps in react, but in the meantime i am learning node.js, beacuse i wanna be a fullstack dev in the future :) </p>
+<p>🌱 I working as a Junior Frontend Developer. Basically I'm develop apps in react/next, but in the meantime Im learning node.js, beacuse i wanna be a fullstack dev in the future :) </p>
 <br>
 <p> My level of English is remained at B1/B2 but I am currently learning it daily. </p>
 
@@ -15,7 +14,7 @@
     <li> 🎂 Born 10th September
 <li> 🌱 I am coding in React, Next, Typescript and TailwindCSS
   <li> 🔭 I am currently learning Node.js
-<li> 🎯 My goal for this year is to learn React Native
+<li> 🎯 Goal for this year: Learn to React Native and in the meantime node.js
 </ul>
 
 **🌱 Main and Favourite Stack**
