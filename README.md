@@ -3,16 +3,16 @@
 <br>
 <p>🌱 I working as a Junior Frontend Developer. Basically I'm develop apps in react/next, but in the meantime Im learning node.js, beacuse i wanna be a fullstack dev in the future :) </p>
 <br>
-<p>🗣️ My level of English is remained at B1/B2 but I am currently learning it daily. </p>
+<p>🗣️ My level of English is remained at B1 but I'm currently learning it daily. </p>
 
 ---
 
 **💁‍♂️ Something about me**
 
 <ul>
-  <li> 👦 I am 18 years old
+  <li> 👦 I'm 18 years old
     <li> 🎂 Born 10th September
-<li> 🌱 I am coding in React, Next, Typescript and TailwindCSS
+<li> 🌱 I'm coding in React, Next, Typescript and TailwindCSS
   <li> 🔭 I am currently learning Node.js
 <li> 🎯 Goal for this year: Learn to React Native and in the meantime node.js
 </ul>
