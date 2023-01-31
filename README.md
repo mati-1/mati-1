@@ -141,9 +141,11 @@
 		
 </details>
 	
-### My projects
-<br>
-<a href="icerty-client-two.vercel.app" target="_blank"><img src="https://i.ibb.co/3Wp7MCS/brave-6s6k5hx-TGH.png" alt="icerty" width="450px height="250px" align="right" ></a>
+---
+	
+### My projects (1)
+	
+<a href="icerty-client-two.vercel.app" target="_blank"><img src="https://i.ibb.co/3Wp7MCS/brave-6s6k5hx-TGH.png" alt="icerty" width="450px" height="250px" align="right" ></a>
 <br>
   
   <h3>📌 Icerty</h3> 
@@ -157,7 +159,5 @@
 	<img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' />
   </div>
 <br>
-<br>
-<h1></h1>
 <br>
 <br>
