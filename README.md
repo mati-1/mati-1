@@ -148,8 +148,8 @@
 <a href="icerty-client-two.vercel.app" target="_blank"><img src="https://i.ibb.co/3Wp7MCS/brave-6s6k5hx-TGH.png" alt="icerty" width="450px height="250px" align="right" ></a>
 <br>
   
-  <h3>📌 Icerty</h3>
-  <p>🐱 https://github.com/icerty-gg/icerty/ <br> 📐 I'm created Frontend of app</p>
+  <h3>📌 Icerty (⚠️ Currently in develop)</h3>
+  <p>💻 https://github.com/icerty-gg/icerty/ <br> 📐 I'm created Frontend of app</p>
   
   <br>
   <div align="left">
