@@ -143,7 +143,7 @@
 	
 ---
 	
-### My projects (1)
+### My projects (2)
 	
 <a href="icerty-client-two.vercel.app" target="_blank"><img src="https://i.ibb.co/3Wp7MCS/brave-6s6k5hx-TGH.png" alt="icerty" width="450px" height="250px" align="right" ></a>
 <br>
