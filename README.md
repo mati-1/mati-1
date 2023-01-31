@@ -145,7 +145,7 @@
 ---
 	<h2>My recent projects:</h2>
 <br>
-<a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="450px height="250px" align="right" ></a>
+<a href="icerty-client-two.vercel.app" target="_blank"><img src="https://i.ibb.co/3Wp7MCS/brave-6s6k5hx-TGH.png" alt="icerty" width="450px height="250px" align="right" ></a>
 <br>
   
   <h3>📌 Icerty</h3>
