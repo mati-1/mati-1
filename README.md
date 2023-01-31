@@ -1,8 +1,6 @@
-<h1>Hello there 🖐</h1> 
+### Hello there 🖐
 
-<br>
 <p>🌱 I working as a Junior Frontend Developer. Basically I'm develop apps in react/next, but in the meantime Im learning node.js, beacuse i wanna be a fullstack dev in the future :) <br> 🗣️ My level of English is remained at B1 but I'm currently learning it daily.</p>
-<br>
 
 ---
 
