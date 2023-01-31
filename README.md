@@ -148,8 +148,8 @@
 <a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="450px height="250px" align="right" ></a>
 <br>
   
-  <h3>:headphones: E-commerce Audiophile:</h3>
-  <p>GH: https://github.com/Lindllay/nextjs-audiophile-e-commerce <br>Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
+  <h3>📌 Icerty</h3>
+  <p>🐱 https://github.com/icerty-gg/icerty/</p>
   
   <br>
   <div align="left">
