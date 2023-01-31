@@ -161,10 +161,11 @@
 <br>
 <br>
 <br>
-  
+	
+<a href="https://skrimusss.github.io/Notes-App/" target="_blank"><img src="https://github.com/skrimusss/Notes-App/raw/master/.github/ReadmeHeaderImage.png" alt="icerty" width="450px" height="250px" align="right" ></a>
   <h3>📌 Notes app (Outdated)</h3> 
-	<p>⚠✅ Finished</p>
-  <p>💻 https://github.com/skrimusss/Notes-App <br> 📐 Backend with firebase</p>
+	<p>✅ Finished</p>
+  <p>💻 https://github.com/skrimusss/Notes-App <br> 📐 React + Backend from firebase</p>
   
   <br>
   <div align="right">
@@ -172,5 +173,3 @@
 	<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
 	<img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
   </div>
-	
-<a href="https://skrimusss.github.io/Notes-App/" target="_blank"><img src="https://github.com/skrimusss/Notes-App/raw/master/.github/ReadmeHeaderImage.png" alt="icerty" width="450px" height="250px" align="right" ></a>
