@@ -1,6 +1,6 @@
 ### Hello there 🖐
 
-<p>🌱 I'm working as a Junior Frontend Developer. Basically I'm develop apps in react/next, but in the meantime learn node.js, beacuse in the future I wanna be a fullstack dev :)</p>
+<p>🌱 I work as a Junior Frontend Developer. I'm basically doing application development in React/Next, but in the meantime I'm learning node.js because I want to be a fullstack developer in the future :)</p>
 <p>🗣️ My level of English is remained at B1 but I'm currently learning everyday.
 
 ---
