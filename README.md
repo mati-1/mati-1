@@ -1,7 +1,6 @@
 ### Hello there 🖐
 
-<p>🌱 I work as a Junior Frontend Developer. I'm basically doing application development in React/Next, but in the meantime I'm learning node.js because I want to be a fullstack developer in the future :)</p>
-<p>🗣️ My level of English is remained at B1 but I'm currently learning everyday.
+<p>🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer 🙂</p>
 
 ---
 
@@ -12,7 +11,7 @@
     <li> 🎂 Born 10th September
 <li> 🌱 I'm coding in React, Next, Typescript and TailwindCSS
   <li> 🔭 I am currently learning Node.js
-<li> 🎯 Goal for this year: Learn to React Native and in the meantime node.js
+<li> 🎯 Goal for this year: Learn React Native and node.js
 </ul>
 
 **🌱 Main and Favourite Stack**
@@ -149,7 +148,7 @@
 <br>
   
   <h3>📌 Icerty</h3> 
-	<p>⚠️ Currently in develop</p>
+	<p>⚠️ Currently in development</p>
   <p>💻 https://github.com/icerty-gg/icerty/ <br> 📐 I'm created Frontend of app</p>
   
   <br>
