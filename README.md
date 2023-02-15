@@ -10,7 +10,7 @@
   <li> 👦 I'm 18 years old
     <li> 🎂 Born 10th September
 <li> 🌱 I'm coding in React, Next, Typescript and TailwindCSS
-  <li> 🔭 I am currently learning Node.js
+  <li> 🔭 I'm currently learning Node.js
 <li> 🎯 Goal for this year: Learn React Native and node.js
 </ul>
 
