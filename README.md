@@ -51,7 +51,7 @@
 
 <details><summary><b>📧 Contact me</b></summary>
     <ul>
-        <li><strong>Discord: </strong> <code>skrimusss#0001</code></li>
+        <li><strong>Discord: </strong> <code>_mati#0001</code></li>
         <li><strong>E-mail: </strong> <code>michalikkontakt@gmail.com</code></li>
         <li><strong><a href="https://www.linkedin.com/in/mateusz-michalik"> Linkedin </a>
     </ul>
