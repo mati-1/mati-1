@@ -16,9 +16,9 @@
 <div>
 ✅ Find a new job with an amazing Frontend stack
 <br />
-🕐 Learn Fastify framework at a good level
+◻️ Learn Fastify framework at a good level
 <br />
-🕐 Write first fullstack app, with next.js, fastify, prisma, postgresql
+◻️ Write first fullstack app, with next.js, fastify, prisma, postgresql
 </div>
 <br />
 
