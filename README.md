@@ -3,7 +3,8 @@
 ---
 
 <div align="right">
-<p align="left">🖐 Hello there. 
+	<p align="left"> 
+	<h3>🖐 Hello there</h3> 
 	<br />
 	I work as a Frontend Engineer. I'm developing applications in Next.js. I'm learning fastify to become a fullstack developer</p>
 </div>
