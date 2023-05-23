@@ -13,10 +13,14 @@
   <li> 🔭 I'm currently learning Fastify framework
 </ul>
 
+<br />
+
 **🎯 Goals for 2023**
 - [x] Find a new job with an amazing Frontend stack
 - [ ] Learn Fastify framework at a good level
 - [ ] Find a job as a fullstack developer, where the backend is developing in fastify
+
+<br />
 
 **💻 Frontend Stack**
 
@@ -25,12 +29,16 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React-Query](https://img.shields.io/badge/reactquery-orange?style=for-the-badge&logo=reactquery&logoColor=white)
 
+<br />
+
 **⌨️ Backend stack I'm currently learning**
 
 ![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-4c51bf?style=for-the-badge&logo=prisma&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-699eca?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white)
+
+<br />
 
 <details><summary><b>💻 Tech Stack</b></summary>
 	
