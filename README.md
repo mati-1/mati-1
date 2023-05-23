@@ -73,7 +73,6 @@
 ```
 {
 	"workbench.colorTheme": "Bearded Theme Arc Blueberry",
-	"workbench.iconTheme": "material-icon-theme",
 	"workbench.colorCustomizations": {
 		"editorBracketHighlight.foreground1": "#a0004b",
 		"editorBracketHighlight.foreground2": "#770077",
@@ -81,17 +80,15 @@
 		"editorBracketHighlight.foreground4": "#6a9717",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#910000"
 	},
-	"breadcrumbs.enabled": false,
+	"tailwindCSS.experimental.classRegex": [["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]],
 	"liveServer.settings.donotShowInfoMsg": true,
 	"explorer.confirmDragAndDrop": false,
-	"editor.formatOnSave": true,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.linkedEditing": true,
 	"editor.cursorBlinking": "blink",
 	"editor.wordWrap": "on",
 	"editor.bracketPairColorization.enabled": true,
 	"editor.guides.bracketPairs": true,
-	"prettier.arrowParens": "avoid",
 	"prettier.jsxSingleQuote": true,
 	"prettier.jsxBracketSameLine": true,
 	"prettier.semi": false,
@@ -105,10 +102,10 @@
 	"typescript.updateImportsOnFileMove.enabled": "always",
 	"diffEditor.renderSideBySide": false,
 	"editor.tabSize": 2,
-	"editor.fontSize": 15,
+	"editor.fontSize": 16,
 	"editor.smoothScrolling": true,
 	"workbench.list.smoothScrolling": true,
-	"editor.cursorSmoothCaretAnimation": true,
+	"editor.cursorSmoothCaretAnimation": "on",
 	"window.zoomLevel": 0,
 	"[html]": {
 		"editor.defaultFormatter": "vscode.html-language-features"
@@ -133,8 +130,25 @@
 		"*.js": "javascriptreact"
 	},
 	"workbench.startupEditor": "none",
-	"explorer.confirmDelete": false
+	"explorer.confirmDelete": false,
+	"css.lint.unknownAtRules": "ignore",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"eslint.validate": ["javascript"],
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"editor.formatOnSave": true,
+	"background.fullscreen": {
+		"image": "https://wallpaperaccess.com/full/8405348.png",
+		"opacity": 0.96,
+		"size": "cover",
+		"position": "center",
+		"interval": 0
+	},
+	"git.confirmSync": false,
+	"workbench.iconTheme": "bearded-icons"
 }
+
 ```
 		
 </details>
