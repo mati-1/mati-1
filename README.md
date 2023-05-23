@@ -27,10 +27,10 @@
 
 **🌱 Backend stack I'm currently learning**
 
-![Fastify](https://img.shields.io/badge/Fastify-purple?style=for-the-badge&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-purple?style=for-the-badge&logo=prisma&logoColor=white)
-![Postgresql](https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-purple?style=for-the-badge&logo=docker&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-4c51bf?style=for-the-badge&logo=prisma&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-699eca?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white)
 
 <details><summary><b>💻 Tech Stack</b></summary>
 	
