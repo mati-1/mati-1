@@ -1,4 +1,4 @@
-<div>![](https://github.com/mati-1/giphy.gif)</div>
+![](https://github.com/mati-1/giphy.gif)
 
 ---
 
