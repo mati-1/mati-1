@@ -29,7 +29,7 @@
 
 ![Fastify](https://img.shields.io/badge/Fastify-purple?style=for-the-badge&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-purple?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/postgressql-purple?style=for-the-badge&logo=postgressql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <details><summary><b>💻 Tech Stack</b></summary>
 	
