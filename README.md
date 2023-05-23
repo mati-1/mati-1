@@ -1,4 +1,4 @@
-<div><img align="left" width="170" src="https://github.com/mati-1/mati-1/blob/main/mark.gif" alt="mati1 gif" /></div>
+<div><img align="left" width="140" src="https://github.com/mati-1/mati-1/blob/main/mark.gif" alt="mati1 gif" /></div>
 
 <div align="right">
 	<h3 style="margin-left: 40px" align="left">🚀 Hello everyone</h3>
