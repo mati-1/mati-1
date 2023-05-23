@@ -4,7 +4,7 @@
 
 <div align="right">
 	<h3 align="left">🖐 Hello everyone</h3>
-	<p align="left">I work as a Frontend Engineer. I'm developing applications in Next.js. I'm learning fastify to become a fullstack developer</p>
+	<p align="left">My name is Mateusz, and I love money conversations. I'm learning fastify to become a fullstack developer</p>
 </div>
 
 ---
