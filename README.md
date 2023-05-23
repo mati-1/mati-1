@@ -1,6 +1,6 @@
-<div><img width="140" src="https://github.com/mati-1/mati-1/blob/main/mark.gif" alt="mati1 gif" /></div>
+<div><img width="50" src="https://github.com/mati-1/mati-1/blob/main/mark.gif" alt="mati1 gif" /></div>
 
-<h3 style="margin-left: 40px" align="left">🚀 Hello everyone</h3>
+<h3 align="left">🚀 Hello everyone</h3>
 <p align="left">My name is Mateusz. I love money conversations. I'm learning fastify to become a fullstack developer</p>
 
 ---
