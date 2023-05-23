@@ -7,7 +7,7 @@
 **💁‍♂️ Something about me**
 
 <ul>
-  <li> 👦 I'm 18 years old
+  <li> 👦 I'm 19 years old
     <li> 🎂 Born 10th September
 <li> 🌱 I'm coding in Next.js, Typescript and TailwindCSS
   <li> 🔭 I'm currently learning Fastify framework
