@@ -139,7 +139,7 @@
 		
 </details>
 	
-<img width="100" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" />
+<img width="200" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" />
 	
 <!-- --- -->
 	
