@@ -1,10 +1,12 @@
 <div><img width="300" align="left" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
 
 <div align="right">
-	<h3>🖐 Hello there</h3>
+	<h3 align="left">🖐 Hello there</h3>
 
-<p>🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer 🙂</p>
+<p align="left">🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer 🙂</p>
 </div>
+
+---
 
 <br />
 <br />
