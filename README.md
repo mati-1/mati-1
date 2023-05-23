@@ -1,7 +1,6 @@
 <h3>🚀 Hello everyone</h3>
+<img width="200" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="mati1 gif" />
 <p>My name is Mateusz. I love money conversations and I'm learning fastify because I wanna become a fullstack developer</p>
-
-<img width="250" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="mati1 gif" />
 
 **💁‍♂️ Something about me**
 
