@@ -1,4 +1,4 @@
-<div><img style="padding-top: 40px;" width="300" align="left" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
+<div><img style="padding-top: 40px;" width="300" align="left" src="https://media1.giphy.com/media/580DvWH0jDbq7J2S26/giphy.gif" /></div>
 
 ---
 
