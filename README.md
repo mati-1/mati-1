@@ -1,9 +1,11 @@
-<img width="300" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" />
-### Hello there 🖐
+<div align="left"><img width="300" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
+
+<div align="right">
+**🖐 Hello there**
 
 <p>🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer 🙂</p>
-
----
+</div>
+</br />
 
 **💁‍♂️ Something about me**
 
