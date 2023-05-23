@@ -30,6 +30,7 @@
 ![Fastify](https://img.shields.io/badge/Fastify-purple?style=for-the-badge&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-purple?style=for-the-badge&logo=prisma&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-purple?style=for-the-badge&logo=docker&logoColor=white)
 
 <details><summary><b>💻 Tech Stack</b></summary>
 	
