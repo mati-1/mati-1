@@ -3,7 +3,9 @@
 ---
 
 <div align="right">
-<p align="left">🖐 Hello there. I work as a Frontend Engineer. I'm developing applications in Next.js. I'm learning fastify to become a fullstack developer</p>
+<p align="left">🖐 Hello there. 
+	<br />
+	I work as a Frontend Engineer. I'm developing applications in Next.js. I'm learning fastify to become a fullstack developer</p>
 </div>
 
 ---
