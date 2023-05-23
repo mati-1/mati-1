@@ -2,8 +2,8 @@
 
 ---
 
-<div align="right" style="margin-left: 40px">
-	<h3 align="left">🚀 Hello everyone</h3>
+<div align="right">
+	<h3 style="margin-left: 40px" align="left">🚀 Hello everyone</h3>
 	<p align="left">My name is Mateusz. I love money conversations. I'm learning fastify to become a fullstack developer</p>
 </div>
 
