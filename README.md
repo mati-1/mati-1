@@ -2,13 +2,14 @@
 
 ---
 
-<div align="right">
+<div align="right" style="margin-left: 40px">
 	<h3 align="left">🚀 Hello everyone</h3>
 	<p align="left">My name is Mateusz. I love money conversations. I'm learning fastify to become a fullstack developer</p>
 </div>
 
 ---
 
+<br />
 <br />
 
 **💁‍♂️ Something about me**
