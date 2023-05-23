@@ -9,12 +9,12 @@
 <ul>
   <li> 👦 I'm 18 years old
     <li> 🎂 Born 10th September
-<li> 🌱 I'm coding in React, Next, Typescript and TailwindCSS
-  <li> 🔭 I'm currently learning Node.js
+<li> 🌱 I'm coding in Next.js, Typescript and TailwindCSS
+  <li> 🔭 I'm currently learning Fastify framework
 </ul>
 
 **🎯 Goals for 2023**
-- [x] Find a new job with an amaizing frontend stack
+- [x] Find a new job with an amazing Frontend stack
 - [ ] Learn Fastify framework at a good level
 - [ ] Find a job as a fullstack developer, where the backend is developing in fastify
 
