@@ -25,7 +25,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Future stack**
-![Fastify]((https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white))
+![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white)
 
 <details><summary><b>💻 Tech Stack</b></summary>
 	
