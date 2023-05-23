@@ -1,4 +1,4 @@
-<div><img align="left" width="200" src="https://github.com/mati-1/mati-1/blob/main/giphy.gif" alt="mati1 gif" /></div>
+<div><img align="left" width="170" src="https://github.com/mati-1/mati-1/blob/main/giphy.gif" alt="mati1 gif" /></div>
 
 ---
 
