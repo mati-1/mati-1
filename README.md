@@ -23,8 +23,6 @@
 ![Next JS](https://img.shields.io/badge/Next-purple?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-purple?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Clsx](https://img.shields.io/badge/clsx-blue?style=for-the-badge&logo=clsx&logoColor=white)
-![Class-Variance-Authority](https://img.shields.io/badge/cva-purple?style=for-the-badge&logo=cva&logoColor=white)
 
 **Stack I'm aiming for**
 
@@ -48,6 +46,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Clsx](https://img.shields.io/badge/clsx-blue?style=for-the-badge&logo=clsx&logoColor=white)
+![Class-Variance-Authority](https://img.shields.io/badge/cva-purple?style=for-the-badge&logo=cva&logoColor=white)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
