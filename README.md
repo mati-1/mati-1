@@ -23,7 +23,7 @@
 ![Next JS](https://img.shields.io/badge/Next-purple?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-purple?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React-Query](https://img.shields.io/badge/react-query-blue?style=for-the-badge&logo=react-query&logoColor=white)
+![React-Query](https://img.shields.io/badge/reactquery-blue?style=for-the-badge&logo=reactquery&logoColor=white)
 
 **Stack I'm aiming for**
 
