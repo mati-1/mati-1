@@ -9,8 +9,6 @@
 ---
 
 <br />
-<br />
-<br />
 
 **💁‍♂️ Something about me**
 
