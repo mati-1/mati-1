@@ -15,7 +15,7 @@
 **🎯 Goals for 2023**
 - [x] Find a new job with an amazing Frontend stack
 - [ ] Learn Fastify framework at a good level
-- [ ] Find a job as a fullstack developer, where the backend is developing in fastify
+- [ ] Write first fullstack app, with next.js, fastify, prisma, postgresql
 
 <br />
 
