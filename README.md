@@ -181,7 +181,7 @@
 		
 </details>
 
-	
+<!-- 	
 ### 💻 My projects (2)
 
 <a href="https://skrimusss.github.io/Notes-App/" target="_blank"><img src="https://github.com/skrimusss/Notes-App/raw/master/.github/ReadmeHeaderImage.png" alt="icerty" width="450px" height="250px" align="right" ></a>
@@ -194,4 +194,4 @@
 	<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
 	<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
 	<img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
-  </div>
+  </div> -->
