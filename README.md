@@ -20,10 +20,10 @@
 
 **🌱 Frontend Stack**
 
-![Next JS](https://img.shields.io/badge/Next-green?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-green?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-green?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React-Query](https://img.shields.io/badge/reactquery-green?style=for-the-badge&logo=reactquery&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![React-Query](https://img.shields.io/badge/reactquery-white?style=for-the-badge&logo=reactquery&logoColor=black)
 
 **🌱 Backend stack I'm currently learning**
 
