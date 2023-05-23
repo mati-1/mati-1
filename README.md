@@ -20,15 +20,16 @@
 
 **🌱 Frontend Stack**
 
-![Next JS](https://img.shields.io/badge/Next?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-purple?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React-Query](https://img.shields.io/badge/reactquery-blue?style=for-the-badge&logo=reactquery&logoColor=white)
 
-**Stack I'm aiming for**
+**🌱 Backend stack I'm currently learning**
 
 ![Fastify](https://img.shields.io/badge/Fastify-purple?style=for-the-badge&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-purple?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/postgressql-purple?style=for-the-badge&logo=postgressql&logoColor=white)
 
 <details><summary><b>💻 Tech Stack</b></summary>
 	
