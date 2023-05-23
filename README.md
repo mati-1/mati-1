@@ -11,13 +11,12 @@
     <li> 🎂 Born 10th September
 <li> 🌱 I'm coding in React, Next, Typescript and TailwindCSS
   <li> 🔭 I'm currently learning Node.js
-<li> 🎯 Goal for this year: Learn React Native and node.js
 </ul>
 
-**🚀 Goals for 2023**
-- [x] Find new job with awesome frontend stack
-- [ ] Learn Fasitfy
-- [ ] Find job with fastify as the main stack
+**🎯 Goals for 2023**
+- [x] Find a new job with an amaizing frontend stack
+- [ ] Learn Fastify framework at a good level
+- [ ] Find a job as a fullstack developer, where the backend is developing in fastify
 
 **🌱 Main and Favourite Stack**
 
