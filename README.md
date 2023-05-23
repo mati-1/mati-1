@@ -1,4 +1,4 @@
-<div><img style="padding-top: 40px;" width="300" align="left" src="https://media1.giphy.com/media/580DvWH0jDbq7J2S26/giphy.gif" /></div>
+<div>![](https://github.com/mati-1/giphy.gif)</div>
 
 ---
 
