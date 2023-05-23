@@ -6,7 +6,8 @@
 	<p align="left"> 
 	<h3 align="left">🖐 Hello there</h3> 
 	<br />
-	I work as a Frontend Engineer. I'm developing applications in Next.js. I'm learning fastify to become a fullstack developer</p>
+	<p align="left">I work as a Frontend Engineer. I'm developing applications in Next.js. I'm learning fastify to become a fullstack developer</p>
+	</p>
 </div>
 
 ---
