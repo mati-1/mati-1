@@ -1,4 +1,4 @@
-![](https://github.com/mati-1/giphy.gif)
+![gif](https://github.com/mati-1/giphy.gif)
 
 ---
 
