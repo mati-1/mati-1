@@ -1,11 +1,12 @@
-<div align="left"><img width="300" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
+<div><img width="300" align="left" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
 
 <div align="right">
-**🖐 Hello there**
+	<h3>🖐 Hello there</h3>
 
 <p>🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer 🙂</p>
 </div>
-</br />
+
+<br />
 
 **💁‍♂️ Something about me**
 
@@ -180,24 +181,7 @@
 
 	
 ### 💻 My projects (2)
-	
-<a href="icerty-client-two.vercel.app" target="_blank"><img src="https://i.ibb.co/3Wp7MCS/brave-6s6k5hx-TGH.png" alt="icerty" width="450px" height="250px" align="right" ></a>
-<br>
-  
-  <h3>📌 Icerty</h3> 
-	<p>⚠️ Currently in development</p>
-  <p>💻 https://github.com/icerty-gg/icerty/ <br> 📐 I'm created Frontend of app</p>
-  
-  <br>
-  <div align="left">
-	<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-	<img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
-	<img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-  </div>
-<br>
-<br>
-<br>
-	
+
 <a href="https://skrimusss.github.io/Notes-App/" target="_blank"><img src="https://github.com/skrimusss/Notes-App/raw/master/.github/ReadmeHeaderImage.png" alt="icerty" width="450px" height="250px" align="right" ></a>
   <h3>📌 Notes app (Outdated)</h3> 
 	<p>✅ Finished</p>
