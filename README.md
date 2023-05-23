@@ -5,10 +5,6 @@
 	<p align="left">My name is Mateusz. I love money conversations. I'm learning fastify to become a fullstack developer</p>
 </div>
 
-<br />
-<br />
-<br />
-
 **💁‍♂️ Something about me**
 
 <ul>
