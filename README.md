@@ -3,7 +3,7 @@
 ---
 
 <div align="right">
-<p align="left">🖐 Hello there. I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer 🙂</p>
+<p align="left">🖐 Hello there. I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer</p>
 </div>
 
 ---
