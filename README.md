@@ -13,11 +13,11 @@
 <br />
 
 **🎯 Goals for 2023**
-
-✅ Find a new job with an amazing Frontend stack
-🕐 Learn Fastify framework at a good level
-🕐 Write first fullstack app, with next.js, fastify, prisma, postgresql
-
+<ul>
+<li> ✅ Find a new job with an amazing Frontend stack
+<li> 🕐 Learn Fastify framework at a good level
+<li> 🕐 Write first fullstack app, with next.js, fastify, prisma, postgresql
+</ul>
 <br />
 
 **💻 Frontend Stack**
