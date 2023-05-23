@@ -23,6 +23,7 @@
 ![Next JS](https://img.shields.io/badge/Next-purple?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-purple?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Clsx](https://img.shields.io/badge/clsx-purple?style=for-the-badge&logo=clsx&logoColor=white)
 
 **Stack I'm aiming for**
 
