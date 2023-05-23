@@ -21,7 +21,7 @@
 **🌱 Main and Favourite Stack**
 
 ![Next JS](https://img.shields.io/badge/Next-purple?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-lavender?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-purple?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Stack I'm aiming for**
