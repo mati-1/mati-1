@@ -1,12 +1,10 @@
-<div><img style="padding-right: 40px;" width="350" align="left" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
+<div><img style="padding-right: 40px;" width="300" align="left" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
 
 ---
 
 <div align="right">
-	<p align="left"> 
 	<h3 align="left">🖐 Hello there</h3> 
 	<p align="left">I work as a Frontend Engineer. I'm developing applications in Next.js. I'm learning fastify to become a fullstack developer</p>
-	</p>
 </div>
 
 ---
