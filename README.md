@@ -1,5 +1,5 @@
-<h3>🚀 Hello everyone</h3>
-<img width="200" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="mati1 gif" />
+<h3 align="center">🚀 Hello everyone</h3>
+<img width="200" align="center" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="mati1 gif" />
 <p>🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning fastify because my next goal is to become a fullstack developer 🙂</p>
 
 **💁‍♂️ Something about me**
