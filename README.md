@@ -14,7 +14,7 @@
 <li> 🎯 Goal for this year: Learn React Native and node.js
 </ul>
 
-**🚀 Goals for 2023
+**🚀 Goals for 2023**
 - [x] Find new job with awesome frontend stack
 - [ ] Learn Fasitfy
 - [ ] Find job with fastify as the main stack
