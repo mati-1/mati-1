@@ -35,8 +35,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React-Query](https://img.shields.io/badge/reactquery-orange?style=for-the-badge&logo=reactquery&logoColor=white)
 
-<br />
-
 **⌨️ Backend stack I'm currently learning**
 
 ![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white)
