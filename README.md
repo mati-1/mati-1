@@ -1,4 +1,3 @@
-<div align="center"><img width="200" height="20" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="underline gif" /></div>
 <h3 align="center">🚀 Hello everyone</h3>
 <div align="center"><img width="200" height="20" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="underline gif" /></div>
 
