@@ -26,6 +26,12 @@
 ![Postgresql](https://img.shields.io/badge/postgresql-699eca?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white)
 
+**👀 Social media**
+	
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+
 <br />
 
 <details><summary><b>🔰 Much More informations</b></summary>
@@ -168,12 +174,6 @@
 		
 </details>
 </details>
-	
-**👀 Social media**
-	
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 	
 <!-- 	
 ### 💻 My projects (2)
