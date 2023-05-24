@@ -27,7 +27,9 @@
 ![Docker](https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white)
 
 **👀 Social media**
+
 <br />
+
 <a target="_blank" href="https://www.instagram.com/mati_michalik/">
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </a>
