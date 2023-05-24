@@ -1,15 +1,6 @@
 <h3 align="center">🚀 Hello everyone</h3>
 <div align="center"><img width="200" height="20" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="underline gif" /></div>
 
-**💁‍♂️ Something about me**
-
-<ul>
-  <li> 👦 I'm 19 years old
-    <li> 🎂 Born 10th September
-<li> 🌱 I'm coding in Next.js, Typescript and TailwindCSS
-  <li> 🔭 I'm currently learning Fastify framework
-</ul>
-
 <br />
 
 **💻 Frontend Stack**
@@ -44,7 +35,19 @@
 <br />
 
 <details><summary><b>🔰 Much More informations</b></summary>
-	<br />
+<br />
+		
+**💁‍♂️ Something about me**
+
+<ul>
+  <li> 🎵 My favourite rapper is Lil Baby
+    <li> 🎂 I'm 19 years old, born 10th September
+<li> 🌱 I'm coding in Next.js, Typescript and TailwindCSS
+  <li> 🔭 I'm currently learning Fastify framework
+</ul>
+	
+<br />
+
 <details><summary><b>🎯 Goals for 2023</b></summary>
 <div>
 ✅ Find a new job with an amazing Frontend stack
