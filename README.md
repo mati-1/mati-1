@@ -28,11 +28,8 @@
 
 **👀 Social media**
 
-<a target="_blank" href="https://www.instagram.com/mati_michalik/">
-	
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-	
-</a>
+![https://www.instagram.com/mati_michalik/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 <a target="_blank" href="https://www.linkedin.com/in/mateusz-michalik/">
 	
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
