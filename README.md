@@ -8,12 +8,10 @@
 
 <div align="right">
 	<br />
-	<br />
 <p align="left">🌱 I work as a Junior Frontend Developer. I'm developing applications in Next.js, but in the meantime I'm learning fastify because my next goal is to become a fullstack developer</p>
 </div>
 </div>
 
-<br />
 <br />
 <br />
 <br />
