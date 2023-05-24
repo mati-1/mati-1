@@ -41,6 +41,7 @@
 </a>
 
 <br />
+<br />
 
 <details><summary><b>🔰 Much More informations</b></summary>
 	<br />
