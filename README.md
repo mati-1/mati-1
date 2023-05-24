@@ -29,7 +29,7 @@
 **👀 Social media**
 
 <a target="_blank" href="https://www.instagram.com/mati_michalik/">
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a target="_blank" href="https://www.linkedin.com/in/mateusz-michalik/">
