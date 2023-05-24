@@ -27,8 +27,9 @@
 ![Docker](https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white)
 
 **👀 Social media**
-	
+<a href="https://www.instagram.com/mati_michalik/">
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+</a>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
