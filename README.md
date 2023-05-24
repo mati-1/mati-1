@@ -5,8 +5,9 @@
 
 <div>
 <div align="left"><img width="200" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
+
 <div align="right">
-<p align="left">🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning fastify because my next goal is to become a fullstack developer</p>
+<p align="left">🌱 I work as a Junior Frontend Developer. I'm developing applications in Next.js, but in the meantime I'm learning fastify because my next goal is to become a fullstack developer</p>
 </div>
 </div>
 
