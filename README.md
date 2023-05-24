@@ -5,6 +5,8 @@
 
 <p>🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning fastify because my next goal is to become a fullstack developer 🙂</p>
 
+<br />
+
 **💻 Frontend Stack**
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -33,6 +35,7 @@
 <img height="28px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
+<br />
 <br />
 <br />
 
