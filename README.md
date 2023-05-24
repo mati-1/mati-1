@@ -12,16 +12,6 @@
 
 <br />
 
-**🎯 Goals for 2023**
-<div>
-✅ Find a new job with an amazing Frontend stack
-<br />
-◻️ Learn Fastify framework at a good level
-<br />
-◻️ Write first fullstack app, with next.js, fastify, prisma, postgresql
-</div>
-<br />
-
 **💻 Frontend Stack**
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -37,6 +27,16 @@
 ![Docker](https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white)
 
 <br />
+
+<details><summary><b>🎯 Goals for 2023</b></summary>
+<div>
+✅ Find a new job with an amazing Frontend stack
+<br />
+◻️ Learn Fastify framework at a good level
+<br />
+◻️ Write first fullstack app, with next.js, fastify, prisma, postgresql
+</div>
+</details>
 
 <details><summary><b>💻 Tech Stack</b></summary>
 
