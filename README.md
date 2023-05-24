@@ -28,8 +28,9 @@
 
 <br />
 
-<details><summary><b>🎯 Much More informations</b></summary>
-	<details><summary><b>🎯 Goals for 2023</b></summary>
+<details><summary><b>🔰 Much More informations</b></summary>
+	<br />
+<details><summary><b>🎯 Goals for 2023</b></summary>
 <div>
 ✅ Find a new job with an amazing Frontend stack
 <br />
