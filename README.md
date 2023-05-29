@@ -34,7 +34,7 @@
 
 **👀 Social media**
 
-<a target="_blank" href="https://www.instagram.com/mati_michalik/">
+<a target="_blank" href="https://www.instagram.com/mvti_michalik/">
 <img height="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
