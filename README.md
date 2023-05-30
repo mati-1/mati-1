@@ -73,7 +73,6 @@
 ✅ Write first frontend app, with react and typescript
 </div>
 </details>
-<br />
 <details><summary><b>🎯 2023</b></summary>
 <div>
 ✅ Find a new job with an amazing Frontend stack
