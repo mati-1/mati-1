@@ -64,7 +64,17 @@
 	
 <br />
 
-<details><summary><b>🎯 Goals for 2023</b></summary>
+<details><summary><b>🎯 Goals</b></summary>
+<br />
+<details><summary><b>🎯 2022</b></summary>
+<div>
+✅ Learn my actually frontend stack
+<br />
+✅ Write first frontend app, with react and typescript
+</div>
+</details>
+<br />
+<details><summary><b>🎯 2023</b></summary>
 <div>
 ✅ Find a new job with an amazing Frontend stack
 <br />
@@ -72,6 +82,7 @@
 <br />
 ◻️ Write first fullstack app, with next.js, fastify, prisma, postgresql
 </div>
+</details>
 </details>
 
 <!-- <details><summary><b>💻 Tech Stack</b></summary>
