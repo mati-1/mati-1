@@ -58,7 +58,7 @@
 <ul>
   <li> 🎵 My favourite rapper is Lil Baby
     <li> 🎂 I'm 19 years old, born 10th September
-<li> 🌱 I'm coding in Next.js, Typescript and TailwindCSS
+<li> 🌱 Basically I'm coding in Next.js, TailwindCSS, Fastify and Typescript
   <li> 🔭 I'm currently learning Fastify framework
 </ul>
 	
