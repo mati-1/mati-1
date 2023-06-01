@@ -56,7 +56,7 @@
 **💁‍♂️ Something about me**
 
 <ul>
-  <li> 🎵 My favourite rapper is Lil Baby
+  <li> 🎵 My favorite rappers are Drake and Lil baby
     <li> 🎂 I'm 19 years old, born 10th September
 <li> 🌱 Basically I'm coding in Next.js, TailwindCSS, Fastify and Typescript
   <li> 🔭 I'm currently learning Fastify framework
