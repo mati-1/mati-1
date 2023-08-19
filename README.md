@@ -60,7 +60,7 @@
     <li> 🎂 I'm 19 years old, born 10th September
 <li> 🌱 Basically I'm coding in Next.js, TailwindCSS, Fastify and Typescript
   <li> 🔭 I'm currently learning Fastify framework
-  <li> 🔭 Favourite fast food <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" height="16px" />
+  <li> 😋 Favourite fast food   <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" height="24px" />
 </ul>
 	
 <br />
