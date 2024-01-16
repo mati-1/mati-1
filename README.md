@@ -52,26 +52,6 @@
 <details open><summary><b>🔰 Much More informations</b></summary>	
 <br />
 
-<details><summary><b>🎯 Goals</b></summary>
-<br />
-<details><summary><b>🎯 2022</b></summary>
-<div>
-✅ Learn my actually frontend stack
-<br />
-✅ Write first frontend app, with react and typescript
-</div>
-</details>
-<details><summary><b>🎯 2023</b></summary>
-<div>
-✅ Find a new job with an amazing Frontend stack
-<br />
-◻️ Learn Fastify framework at a good level
-<br />
-◻️ Write first fullstack app, with next.js, fastify, prisma, postgresql
-</div>
-</details>
-</details>
-
 <!-- <details><summary><b>💻 Tech Stack</b></summary>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
