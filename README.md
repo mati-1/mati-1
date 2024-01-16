@@ -49,19 +49,7 @@
 <br />
 <br />
 
-<details open><summary><b>🔰 Much More informations</b></summary>
-<br />
-		
-**💁‍♂️ Something about me**
-
-<ul>
-  <li> 🎵 My favorite rappers are Drake and Lil baby
-    <li> 🎂 I'm 19 years old, born 10th September
-<li> 🌱 Basically I'm coding in Next.js, TailwindCSS, Fastify and Typescript
-  <li> 🔭 I'm currently learning Fastify framework
-  <li> 😋 Favourite fast food   <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" height="24px" />
-</ul>
-	
+<details open><summary><b>🔰 Much More informations</b></summary>	
 <br />
 
 <details><summary><b>🎯 Goals</b></summary>
