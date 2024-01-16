@@ -180,21 +180,22 @@
 	"explorer.confirmDelete": false,
 	"css.lint.unknownAtRules": "ignore",
 	"editor.codeActionsOnSave": {
-		"source.fixAll.eslint": true
+		"source.fixAll.eslint": "explicit"
 	},
 	"eslint.validate": ["javascript"],
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
 	"editor.formatOnSave": true,
 	"background.fullscreen": {
-		"image": "https://wallpaperaccess.com/full/8405348.png",
-		"opacity": 0.96,
+		"image": "https://images.unsplash.com/photo-1579546929662-711aa81148cf?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D",
+		"opacity": 0.97,
 		"size": "cover",
 		"position": "center",
 		"interval": 0
 	},
 	"git.confirmSync": false,
-	"workbench.iconTheme": "bearded-icons"
+	"workbench.iconTheme": "material-icon-theme"
 }
+
 
 ```
 		
