@@ -9,7 +9,7 @@
 <div align="right">
 	<br />
 	<br />
-<p align="left">🌱 I work as a Junior Frontend Developer. I'm developing applications in Next.js, but in the meantime I'm learning fastify because my next goal is to become a fullstack developer</p>
+<p align="left">🌱 I work as a Frontend dev, also a fullstack dev. I was developing an fullstack application in Next.js, with a lot of fullstack functionalities that I wrote myself</p>
 </div>
 </div>
 
