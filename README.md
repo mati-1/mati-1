@@ -31,20 +31,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-4c51bf?style=for-the-badge&logo=prisma&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-699eca?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**👀 Social media**
-
-<a target="_blank" href="https://www.instagram.com/mvti_michalik/">
-<img height="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a target="_blank" href="https://www.linkedin.com/in/mateusz-michalik/">
-<img height="24px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a target="_blank" href="https://open.spotify.com/user/devon2115">
-<img height="24px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
 <br />
 <br />
 <br />
