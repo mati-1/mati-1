@@ -1,8 +1,6 @@
 <h3 align="center">🚀 Hi</h3>
 <br />
 <div align="right">
-	<br />
-	<br />
 <p align="left">🌱 Fullstack Web Developer</p>
 </div>
 
